@@ -1,2 +1,1 @@
-# Adilkhan
-wordpress website
+index.html
